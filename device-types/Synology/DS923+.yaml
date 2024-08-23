@@ -1,0 +1,16 @@
+---
+manufacturer: Synology
+model: DS923+
+slug: synology-ds923-plus
+part_number: DS923+
+u_height: 4
+comments: '[Synology DS923+ Specs](https://www.synology.com/de-de/products/DS923+#specs)'
+is_full_depth: false
+power-ports:
+  - name: PSU
+    type: dc-terminal
+interfaces:
+  - name: LAN 1
+    type: 1000base-t
+  - name: LAN 2
+    type: 1000base-t
