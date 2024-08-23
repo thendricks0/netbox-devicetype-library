@@ -1,0 +1,15 @@
+---
+manufacturer: HP
+model: Color LaserJet Pro MFP M283fdw
+slug: hp-color-laserjet-pro-mfp-m283fdw
+part_number: 7KW75A
+u_height: 0
+comments: Multifunction Color Laser Printer [Product Page](https://support.hp.com/us-en/product/details/hp-color-laserjet-pro-m282-m285-multifunction-printer-series/model/29448718)
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+interfaces:
+  - name: eth0
+    type: 1000base-t
+  # - name: WiFi
+  #   type: ieee802.11ac

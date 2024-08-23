@@ -1,0 +1,15 @@
+---
+manufacturer: HP
+model: ScanJet Enterprise 7000n
+slug: hp-scanjet-enterprise-7000n
+part_number: L2709A
+u_height: 0
+comments: Enterprise Scanner [Product Page](https://support.hp.com/us-en/product/details/hp-scanjet-enterprise-7000n-document-capture-workstation-series/3948687)
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+interfaces:
+  - name: eth0
+    type: 1000base-t
+  # - name: WiFi
+  #   type: ieee802.11ac

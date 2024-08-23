@@ -1,0 +1,13 @@
+---
+manufacturer: HP
+model: LaserJet Enterprise 500 color M551
+slug: hp-laserjet-enterprise-500-color-m551
+part_number: CF081A
+u_height: 0
+comments: Color Laser Printer [Product Page](https://support.hp.com/us-en/product/details/hp-laserjet-enterprise-500-color-printer-m551-series/4184772)
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+interfaces:
+  - name: eth0
+    type: 1000base-t

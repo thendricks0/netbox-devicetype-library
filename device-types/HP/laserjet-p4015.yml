@@ -1,0 +1,13 @@
+---
+manufacturer: HP
+model: LaserJet P4015
+slug: hp-laserjet-p4015
+part_number: CB509A
+u_height: 0
+comments: Black-and-white Laser Printer [Product Page](https://support.hp.com/us-en/product/details/hp-laserjet-p4015-printer-series/3558793)
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+interfaces:
+  - name: eth0
+    type: 100base-tx

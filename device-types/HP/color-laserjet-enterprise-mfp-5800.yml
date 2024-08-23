@@ -1,0 +1,15 @@
+---
+manufacturer: HP
+model: Color LaserJet Enterprise MFP 5800
+slug: hp-color-laserjet-enterprise-mfp-5800
+part_number: 49K96AV
+u_height: 0
+comments: Multifunction Color Laser Printer [Product Page](https://support.hp.com/us-en/product/details/hp-color-laserjet-enterprise-mfp-5800-printer-series/2101004128)
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+interfaces:
+  - name: eth0
+    type: 1000base-t
+  # - name: WiFi
+  #   type: ieee802.11ac

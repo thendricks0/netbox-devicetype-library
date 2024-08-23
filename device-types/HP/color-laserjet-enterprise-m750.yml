@@ -1,0 +1,13 @@
+---
+manufacturer: HP
+model: Color LaserJet Enterprise M750
+slug: hp-color-laserjet-enterprise-m750
+part_number: D3L09A
+u_height: 0
+comments: Color Laser Printer [Product Page](https://support.hp.com/us-en/product/hp-color-laserjet-enterprise-m750-printer-series/5365380)
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+interfaces:
+  - name: eth0
+    type: 1000base-t

@@ -1,0 +1,15 @@
+---
+manufacturer: HP
+model: Color LaserJet Enterprise MFP M577
+slug: hp-color-laserjet-enterprise-mfp-m577
+part_number: B5L46A
+u_height: 0
+comments: Enterprise Multifunction Color Laser Printer [Product Page](https://support.hp.com/us-en/product/details/hp-color-laserjet-enterprise-mfp-m577-series/7326629)
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+interfaces:
+  - name: eth0
+    type: 1000base-t
+  # - name: WiFi
+  #   type: ieee802.11ac

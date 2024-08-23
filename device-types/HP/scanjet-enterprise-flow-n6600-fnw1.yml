@@ -1,0 +1,15 @@
+---
+manufacturer: HP
+model: ScanJet Enterprise Flow N6600 fnw1
+slug: hp-scanjet-enterprise-flow-n6600-fnw1
+part_number: 20G08A
+u_height: 0
+comments: High-Speed Document Scanner [Product Page](https://support.hp.com/us-en/product/details/hp-scanjet-enterprise-flow-n6600-fnw1/2100674456)
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+interfaces:
+  - name: eth0
+    type: 1000base-t
+  - name: WiFi
+    type: ieee802.11ac

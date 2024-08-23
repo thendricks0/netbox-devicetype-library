@@ -1,0 +1,13 @@
+---
+manufacturer: HP
+model: Color LaserJet 3700
+slug: hp-color-laserjet-3700
+part_number: Q1321A
+u_height: 0
+comments: Color Laser Printer [Product Page](https://support.hp.com/us-en/product/hp-color-laserjet-3700-printer-series/315849)
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+interfaces:
+  - name: eth0
+    type: 100base-tx

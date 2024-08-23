@@ -1,0 +1,15 @@
+---
+manufacturer: HP
+model: DesignJet T530 36-in
+slug: hp-designjet-t530-36-in
+part_number: 5ZY62A
+u_height: 0
+comments: Large Format Printer [Product Page](https://support.hp.com/us-en/product/details/hp-designjet-t500-printer-series/model/27315482)
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+interfaces:
+  - name: eth0
+    type: 1000base-t
+  # - name: WiFi
+  #   type: ieee802.11ac

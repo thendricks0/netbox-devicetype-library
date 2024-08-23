@@ -1,0 +1,13 @@
+---
+manufacturer: HP
+model: LaserJet M3035 MFP
+slug: hp-laserjet-m3035-mfp
+part_number: CB414A
+u_height: 0
+comments: Multifunction Black-and-white Laser Printer [Product Page](https://support.hp.com/us-en/product/details/hp-laserjet-m3035-multifunction-printer-series/2512334)
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+interfaces:
+  - name: eth0
+    type: 100base-tx
