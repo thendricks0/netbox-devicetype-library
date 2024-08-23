@@ -1,0 +1,46 @@
+---
+manufacturer: APC
+model: Smart-UPS RT 8000VA RM
+slug: apc-smart-ups-rt-8000va-rm
+part_number: SURT8000RMXLI
+u_height: 6
+is_full_depth: true
+console-ports:
+  - name: Serial
+    type: rj-45
+power-ports:
+  - name: Inlet 1
+    type: iec-60309-3p-n-e-6h
+    maximum_draw: 6400
+  - name: Inlet 2
+    type: hardwired
+    maximum_draw: 6400
+power-outlets:
+  - name: Outlet 1
+    type: iec-60320-c13
+    power_port: Inlet 1
+  - name: Outlet 2
+    type: iec-60320-c13
+    power_port: Inlet 1
+  - name: Outlet 3
+    type: iec-60320-c13
+    power_port: Inlet 1
+  - name: Outlet 4
+    type: iec-60320-c13
+    power_port: Inlet 1
+  - name: 16A Outlet 1
+    type: iec-60320-c19
+    power_port: Inlet 1
+  - name: 16A Outlet 2
+    type: iec-60320-c19
+    power_port: Inlet 1
+  - name: 16A Outlet 3
+    type: iec-60320-c19
+    power_port: Inlet 1
+  - name: 16A Outlet 4
+    type: iec-60320-c19
+    power_port: Inlet 1
+interfaces:
+  - name: Ethernet
+    type: 100base-tx
+    mgmt_only: true
