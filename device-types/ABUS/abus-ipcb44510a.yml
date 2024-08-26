@@ -1,0 +1,15 @@
+---
+manufacturer: ABUS
+model: IPCB44510A
+slug: abus-ipcb44510a
+part_number: IPCB44510A
+u_height: 0
+comments: IP Camera [Product Page](https://www.abus.com/de/Archiv/IP-Mini-Dome-4-MPx-2.8-mm)
+power-ports:
+  - name: PSU1
+    type: dc-terminal
+interfaces:
+  - name: eth0
+    type: 100base-tx
+    poe_mode: pse
+    poe_type: type2-ieee802.3af
