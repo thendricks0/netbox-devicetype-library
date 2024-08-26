@@ -1,0 +1,17 @@
+---
+manufacturer: Sophos
+model: AP50
+slug: sophos-ap50
+part_number: AP50
+u_height: 0
+comments: Access Point [Product Page](https://www.sophos.com/en-us/products/wireless/sophos-wireless-access-points.aspx)
+power-ports:
+  - name: PSU1
+    type: dc-terminal
+interfaces:
+  - name: eth0
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: WiFi
+    type: ieee802.11n
